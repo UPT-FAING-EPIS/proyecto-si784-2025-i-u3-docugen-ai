@@ -15,13 +15,16 @@
 | Estándar de Programación | ❌ FALTA |
 | Video de presentación del aplicativo funcionando | ✅ LISTO |
 | Enlace a la aplicación funcionando | ✅ LISTO |
-| GitHub Page con reportes de pruebas | ❌ FALTA |
-| GitHub Page con documentación autogenerada | ✅ LISTO |
+| GitHub Page con reportes de pruebas | ✅ LISTO |
+| GitHub Page con documentación autogenerada | ❌ FALTA |
 
 ### 📎 Enlaces Importantes
 
 - **Video de Presentación**: [Ver Video](https://drive.google.com/file/d/1rvuEbi5GNu5kFkgLIZNHVkrRln3y_RTw/view?usp=sharing)
-- **GitHub Pages - Documentación**: [https://aakhtar004.github.io/doc_ai/](https://aakhtar004.github.io/doc_ai/)
+
+- **GitHub Pages - Reportes**: [https://aakhtar004.github.io/doc_ai/](https://aakhtar004.github.io/doc_ai/)
+
+- **GitHub Pages - Documentacion**: [FALTA](FALTA)
 
 ### 📋 Pendientes
 
