@@ -1,0 +1,40 @@
+{
+  "name": "calidadproyecto",
+  "version": "2.4.1",
+  "description": "",
+  "main": "server.cjs",
+  "scripts": {
+    "start": "node server.cjs",
+    "dev": "node server.cjs",
+    "test:ui": "npx playwright test",
+    "extraer-videos": "node extraerVideos.js",
+    "test:reporte": "npm run test:ui && npm run extraer-videos",
+    "build": "echo 'Build complete'",
+    "vercel-build": "echo 'Vercel build complete'",
+    "bdd": "cucumber-js --require-module ts-node/register features/**/*.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.19.0",
+    "@supabase/supabase-js": "^2.49.8",
+    "adm-zip": "^0.5.16",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.5",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "multer": "^1.4.5-lts.1",
+    "pako": "^2.1.0",
+    "pdf-parse": "^1.1.1",
+    "pdf2pic": "^3.2.0"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.3.0",
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^24.0.1",
+    "playwright": "^1.53.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
