@@ -2,29 +2,41 @@
 
 # DocuGen AI - Analizador de Código con Inteligencia Artificial
 
-## Entregables
+## 📋 Entregables
 
-FD01 - Informe de Factibilidad 					                        LISTO
-FD02 - Informe de Visión de Producto 				                    LISTO
-FD03 - Informe de Especificación de Requerimientos 		                LISTO
-FD04 - Informe de Arquitectura 					                        LISTO
-FD05 - Informe de Proyecto 					                            LISTO
-Diccionario de Datos 						                            LISTO
-Estandar de Programación					                            FALTA
-Video de presentación del aplicativo funcionando al 100%	            LISTO
-Enlace a la aplicación funcionando				                        LISTO
+| Documento/Entregable | Estado |
+|---------------------|--------|
+| FD01 - Informe de Factibilidad | ✅ LISTO |
+| FD02 - Informe de Visión de Producto | ✅ LISTO |
+| FD03 - Informe de Especificación de Requerimientos | ✅ LISTO |
+| FD04 - Informe de Arquitectura | ✅ LISTO |
+| FD05 - Informe de Proyecto | ✅ LISTO |
+| Diccionario de Datos | ✅ LISTO |
+| Estándar de Programación | ❌ FALTA |
+| Video de presentación del aplicativo funcionando | ✅ LISTO |
+| Enlace a la aplicación funcionando | ✅ LISTO |
+| GitHub Page con reportes de pruebas | ❌ FALTA |
+| GitHub Page con documentación autogenerada | ✅ LISTO |
 
-Enlace al Github Page que contiene todos los reportes de pruebas 
-(Sonar, Semgrep, Snyk, Pruebas Unitarias, Pruebas de Integración, 
-Pruebas de Mutación, Pruebas de Interfaz, Pruebas BDD) Esos 
-reportes deben estar incluidos en el FD04 			                    FALTA
+### 📎 Enlaces Importantes
 
-Enlace al Github Page con la documentación autogenerada 
-de la aplicación 						                                LISTO
+- **Video de Presentación**: [Ver Video](https://drive.google.com/file/d/1rvuEbi5GNu5kFkgLIZNHVkrRln3y_RTw/view?usp=sharing)
+- **GitHub Pages - Documentación**: [https://aakhtar004.github.io/doc_ai/](https://aakhtar004.github.io/doc_ai/)
 
-LINK VIDEO: https://drive.google.com/file/d/1rvuEbi5GNu5kFkgLIZNHVkrRln3y_RTw/view?usp=sharing
+### 📋 Pendientes
 
-LINK GITHUB PAGES: https://aakhtar004.github.io/doc_ai/
+- **Estándar de Programación**: Documento con las convenciones y estándares utilizados
+- **GitHub Page con Reportes de Pruebas**: Página que contenga todos los reportes de:
+  - Sonar
+  - Semgrep
+  - Snyk
+  - Pruebas Unitarias
+  - Pruebas de Integración
+  - Pruebas de Mutación
+  - Pruebas de Interfaz
+  - Pruebas BDD
+  
+  *Nota: Estos reportes deben estar incluidos en el FD04*
 
 ## 📋 Descripción
 DocuGen AI es una aplicación web que utiliza inteligencia artificial (Google Gemini) para analizar código fuente y generar documentación automática. La aplicación permite a los usuarios subir archivos de código, proyectos completos o documentos PDF personalizados para obtener análisis detallados y documentación SRS (Especificación de Requisitos de Software).
