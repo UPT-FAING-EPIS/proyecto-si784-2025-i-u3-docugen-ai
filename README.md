@@ -12,11 +12,9 @@
 | FD04 - Informe de Arquitectura | ✅ LISTO |
 | FD05 - Informe de Proyecto | ✅ LISTO |
 | Diccionario de Datos | ✅ LISTO |
-| Estándar de Programación | ❌ FALTA |
 | Video de presentación del aplicativo funcionando | ✅ LISTO |
 | Enlace a la aplicación funcionando | ✅ LISTO |
 | GitHub Page con reportes de pruebas | ✅ LISTO |
-| GitHub Page con documentación autogenerada | ❌ FALTA |
 
 ### 📎 Enlaces Importantes
 
